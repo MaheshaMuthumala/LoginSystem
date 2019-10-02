@@ -8,6 +8,7 @@
 <html>
     <head>
         <titile>Login</titile>
+        <!-- Style tag-->
         <link rel="stylesheet" type="text/css" href="style.css">
     </head>
 
